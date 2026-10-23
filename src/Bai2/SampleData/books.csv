@@ -1,0 +1,7 @@
+BookId,Title,Author,Price,Quantity,CoverPath
+S001,Lập trình C# căn bản,Phạm Hữu Khang,125000,12,
+S002,Cấu trúc dữ liệu và giải thuật,Lê Minh Hoàng,98000,8,
+S003,Mạng máy tính,Nguyễn Thúc Hải,145000,5,
+S004,"Cơ sở dữ liệu: Lý thuyết và thực hành",Nguyễn Bá Tường,110000,10,
+S005,An toàn thông tin mạng,Nguyễn Khanh Văn,132000,7,
+S006,Chú mèo lập trình .NET,Trần Nhật Đông,159000,4,
